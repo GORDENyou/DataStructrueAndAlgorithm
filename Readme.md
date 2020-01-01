@@ -4,7 +4,7 @@
 
 系统栈，回退栈
 
-![](J:\DESKTOP\Blog\DataStructrue&Algorithm\picture\系统栈.png)
+![](https://github.com/GORDENyou/DataStructrueAndAlgorithm/blob/master/picture/%E7%B3%BB%E7%BB%9F%E6%A0%88.png)
 
 ## 队列
 
